@@ -1,2 +1,2 @@
 # Calibration and Uncertainty in Neural Time-to-Event Modeling (IEEE TNNLS 2020)
-This repository contains the TensorFlow code to replicate experiments in our journal paper Calibration and Uncertainty in Neural Time-to-Event Modeling to appear as a [Special Issue: Robust Learning of Spatio-Temporal Point Processes: Modeling, Algorithm, and Applications] in the IEEE Transactions on Neural Networks and Learning Systems
+This repository contains the TensorFlow code to replicate experiments in our journal paper Calibration and Uncertainty in Neural Time-to-Event Modeling to appear as a Special Issue: Robust Learning of Spatio-Temporal Point Processes: Modeling, Algorithm, and Applications in the IEEE Transactions on Neural Networks and Learning Systems.
