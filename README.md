@@ -12,8 +12,8 @@ This repository contains links to TensorFlow code for replicating experiments in
 }
 ```
 ## Calibration in Time-to-Event Models
-- We propose a new estimator <img src="https://render.githubusercontent.com/render/math?math=S^{\rm DKM}(t)">  that can be used to visually assess the calibration (accounting for model uncertainty) of estimated event times from
-different models relative to the ground truth  <img src="https://render.githubusercontent.com/render/math?math=S^{\rm KM}(t)">
+- We propose a new estimator <img src="https://render.githubusercontent.com/render/math?math=\hat{S}^{\rm DKM}(t)">  that can be used to visually assess the calibration (accounting for model uncertainty) of estimated event times from
+different models relative to the ground truth  <img src="https://render.githubusercontent.com/render/math?math=\hat{S}^{\rm KM}(t)">
 ![Model](calibration.png)
 - Run the [Calibration.ipynb](https://github.com/paidamoyo/survival_cluster_analysis/blob/master/Calibration.ipynb) to generate calibration results
 
